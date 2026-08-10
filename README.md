@@ -49,4 +49,4 @@ Pipeline ETL desenvolvido em Python e GCP para ingestão, transformação e disp
 
 ## 📫 Contato
 
-- LinkedIn: seu LinkedIn
+- LinkedIn: [seu LinkedIn](https://www.linkedin.com/in/guilherme-sousa-batista/)
