@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @Guilherme4124
-- 👀 I’m interested in finding an internship in the developer area. Always looking to learn and evolve.
-- 🌱 I’m currently learning  Object Oriented Programming in C# language, along with databases, in the modeling and creation wall in Sql server.
-- 💞️ I’m looking to collaborate on  full stack development, being the most complete in the area.
-- 📫 How to reach me at email guisb91@gmail.com, you can also get in touch via linkedin. https://www.linkedin.com/in/guilherme-sousa-batista-5b0a411a3
+# Guilherme Sousa Batista
 
-<!---
-Guilherme4124/Guilherme4124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Engineer | SQL Server | Python | ETL | GCP
+
+Profissional de dados com experiência em desenvolvimento e otimização de processos utilizando SQL Server e Python, atuando com ETL, automação e processamento de grandes volumes de dados.
+
+Atualmente aprofundando conhecimentos em Engenharia de Dados e arquiteturas modernas, com foco em GCP, Apache Spark, Databricks, BigQuery e dbt.
+
+## 🛠️ Tech Stack
+
+**Data Engineering**
+- SQL Server
+- Python
+- ETL / ELT
+- Apache Spark
+- Databricks
+- Delta Lake
+- dbt
+
+**Cloud**
+- Google Cloud Platform
+- Cloud Storage
+- BigQuery
+
+**Development & Tools**
+- Git
+- GitHub
+- Docker
+
+## 🚀 Projetos em Destaque
+
+### NovaMarket Data Platform
+Pipeline de Engenharia de Dados desenvolvido com arquitetura em camadas.
+
+`Python → GCS → Databricks/Spark → Delta Lake → BigQuery → dbt`
+
+Inclui ingestão, processamento distribuído, arquitetura Bronze/Silver, modelagem dimensional, testes de qualidade, lineage e processamento incremental.
+
+### QuantumFinance Data Platform
+Pipeline ETL desenvolvido em Python e GCP para ingestão, transformação e disponibilização de dados no BigQuery.
+
+`Python → Cloud Storage → BigQuery`
+
+## 🎓 Formação
+
+**MBA em Data Science & Artificial Intelligence — FIAP**
+
+**Análise e Desenvolvimento de Sistemas — UNIP**
+
+## 📫 Contato
+
+- LinkedIn: seu LinkedIn
